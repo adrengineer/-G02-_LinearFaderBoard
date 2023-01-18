@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 21:12:50 On 17/01/2023
+
+Output: BOM_PartType
+Type  : BOM
+From  : Variant [[No Variations]] of Project [[G02]LinearFaderBoard.PrjPcb]
+   Generated File[BOM_PartType-[G02]LinearFaderBoard.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 21:12:51 On 17/01/2023
